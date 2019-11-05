@@ -9,7 +9,6 @@ changes for commit
 
 <<<<<<< HEAD
 - this is a big mistake
-- after mistake 
 
 
 =======
